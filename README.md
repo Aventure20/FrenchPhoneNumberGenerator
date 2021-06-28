@@ -1,2 +1,2 @@
-# FrenchPhineNumberGenerator
+# FrenchPhoneNumberGenerator
  
